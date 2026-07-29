@@ -55,7 +55,7 @@ The model was evaluated using validation data.
 
 Validation Accuracy:
 
-**INSERT YOUR ACCURACY HERE**
+88.67%
 
 The model was able to successfully classify multiple land-cover categories while showing some difficulty distinguishing visually similar classes.
 
